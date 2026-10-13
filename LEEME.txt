@@ -1,0 +1,13 @@
+TESTS CD — actualización v9
+
+Antes de actualizar: desde el icono de la app, Más > Ajustes > Exportar copia de seguridad.
+Reemplaza index.html, sw.js y manifest.json en el mismo alojamiento y carpeta de la app actual. Mantén tu icon.png existente. No cambies de dirección ni elimines el icono ni los datos del sitio.
+Esta entrega no publica los archivos por ti. Tras sustituirlos, cierra y vuelve a abrir la app con conexión. Comprueba que aparece «Novedades · v9».
+
+Cambios: Datos y progreso; sección Simulacro; repaso diario máximo de 50 preguntas ya vistas que están pendientes.
+Simulacro: excluye demo, deduplica texto y opciones, permite filtros por origen/año, evita últimos 1 o 3 simulacros cuando el banco lo permite. Si faltan preguntas pide permiso para reducir o reutilizar. No cambia opciones de orden por precaución ante respuestas «todas las anteriores». 100 + 5 si hay 105 preguntas únicas; reservas no puntúan automáticamente.
+Repaso: se registra al entregar, aciertos a 3/7/15/30/60/120 días; errores o blancos a 1 día. No introduce preguntas nuevas.
+Correcciones: escritura IndexedDB con orden correcto put(valor,clave); evita registrar cada pulsación en Estudio y volverla a contar al entregar. Los conteos antiguos se conservan sin inventar correcciones ni fechas.
+La base sigue llamándose testscd, versión 1, almacén kv, claves db y session. Las copias exportan también las nuevas estadísticas y el calendario.
+
+Validación: revisión estática y comprobación de sintaxis JavaScript cuando Node está disponible. Pendiente prueba real en Safari/iPhone con tu biblioteca y tu alojamiento. No garantiza recuperación de datos que no se guardaron en versiones anteriores.
