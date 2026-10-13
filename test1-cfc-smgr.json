@@ -1,0 +1,1387 @@
+{
+  "id": "cfc-smgr-2025-test1",
+  "category": "academia",
+  "origin": "CFC-SMGR",
+  "year": "2025",
+  "type": "Test 1",
+  "name": "Test 1 CFC-SMGR",
+  "topic": "General",
+  "importedAt": "2026-10-14T00:00:00.000Z",
+  "reviewed": true,
+  "source": "Cuestionario del primer ejercicio CFC-SMGR",
+  "scoring": {
+    "countable": 100,
+    "pointsPerCorrect": 1,
+    "penaltyPerWrong": 0,
+    "blank": 0,
+    "maxScore": 100,
+    "scale": 10
+  },
+  "questions": [
+    {
+      "number": 1,
+      "stem": "Según la Convención de Viena de 1969, un tratado es nulo si :",
+      "options": {
+        "A": "Contiene una reserva incompatible con su objeto y fin.",
+        "B": "Es denunciado unilateralmente sin causa.",
+        "C": "Contraviene una norma de ius cogens.",
+        "D": "No ha sido registrado en la Secretaría de la ONU."
+      },
+      "reserve": false,
+      "id": "cfc1-1",
+      "correct": "C"
+    },
+    {
+      "number": 2,
+      "stem": "En el asunto Ensayos Nucleares (CIJ, 1974), la Corte afirmó que los actos unilaterales del Estado :",
+      "options": {
+        "A": "Solo producen efectos si son aceptados por otros Estados.",
+        "B": "Requieren refrendo parlamentario.",
+        "C": "Deben constar por escrito.",
+        "D": "Pueden obligar jurídicamente si expresan intención clara de obligarse."
+      },
+      "reserve": false,
+      "id": "cfc1-2",
+      "correct": "D"
+    },
+    {
+      "number": 3,
+      "stem": "¿Cuál de las siguientes afirmaciones es correcta respecto al derecho de reservas?",
+      "options": {
+        "A": "Las reservas pueden formularse oralmente en cualquier momento posterior a la ratificación, y los demás Estados disponen de 12 meses para objetarlas.",
+        "B": "Las reservas deben formularse por escrito al firmar, ratificar, aceptar, aprobar o adherirse al tratado; las objeciones deben notificarse normalmente en un plazo de 12 meses desde la comunicación de la reserva.",
+        "C": "Las reservas solo pueden formularse en el momento de la firma, y las objeciones deben presentarse antes de la entrada en vigor del tratado para el Estado objetante.",
+        "D": "Las reservas tardías están prohibidas y cualquier reserva formulada después de la ratificación se considera automáticamente inválida."
+      },
+      "reserve": false,
+      "id": "cfc1-3",
+      "correct": "B"
+    },
+    {
+      "number": 4,
+      "stem": "¿Cuál de los siguientes tratados exige autorización previa de las Cortes Generales según el art. 94 CE?",
+      "options": {
+        "A": "Tratado de cooperación técnica.",
+        "B": "Acuerdo administrativo.",
+        "C": "Tratado que afecta a derechos fundamentales.",
+        "D": "Tratado que modifica un protocolo adicional."
+      },
+      "reserve": false,
+      "id": "cfc1-4",
+      "correct": "C"
+    },
+    {
+      "number": 5,
+      "stem": "¿Cuál de las siguientes afirmaciones sobre la aplicación provisional de los tratados es correcta?",
+      "options": {
+        "A": "Requiere aprobación parlamentaria.",
+        "B": "No puede cesar unilateralmente.",
+        "C": "Solo se aplica tras la ratificación.",
+        "D": "Puede cesar si el Estado notifica que no ratificará."
+      },
+      "reserve": false,
+      "id": "cfc1-5",
+      "correct": "D"
+    },
+    {
+      "number": 6,
+      "stem": "En el Derecho español, la relación entre derecho internacional y derecho interno se caracteriza por :",
+      "options": {
+        "A": "Dualismo estricto.",
+        "B": "Monismo moderado con primacía del derecho internacional.",
+        "C": "Primacía de la costumbre interna.",
+        "D": "Primacía del derecho interno."
+      },
+      "reserve": false,
+      "id": "cfc1-6",
+      "correct": "B"
+    },
+    {
+      "number": 7,
+      "stem": "¿Cuál de los siguientes supuestos constituye reconocimiento tácito de un Estado?",
+      "options": {
+        "A": "Participación conjunta en una conferencia.",
+        "B": "Establecimiento de relaciones diplomáticas plenas.",
+        "C": "Intercambio de notas verbales.",
+        "D": "Asistencia humanitaria bilateral."
+      },
+      "reserve": false,
+      "id": "cfc1-7",
+      "correct": "B"
+    },
+    {
+      "number": 8,
+      "stem": "Según la LO 16/2015, ¿qué bienes están excluidos de la inmunidad de ejecución?",
+      "options": {
+        "A": "Bienes militares.",
+        "B": "Bienes del banco central.",
+        "C": "Bienes afectos a funciones diplomáticas.",
+        "D": "Bienes utilizados para actividades comerciales."
+      },
+      "reserve": false,
+      "id": "cfc1-8",
+      "correct": "D"
+    },
+    {
+      "number": 9,
+      "stem": "¿Cuál de las siguientes opciones refleja la doctrina relativa a la sucesión de Estados?",
+      "options": {
+        "A": "Teoría continuista y teoría atributiva; ejemplos: disolución de Yugoslavia y descolonización de Argelia.",
+        "B": "Teoría declarativa y teoría constitutiva; ejemplos: reconocimiento de Kosovo y creación de Sudán del Sur.",
+        "C": "Teoría legitimadora y teoría funcional; ejemplos: reunificación alemana y secesión de Eritrea.",
+        "D": "Teoría de la continuidad y teoría de la tabula rasa; ejemplos: Federación rusa como continuadora de la URSS y Estados independizados tras el proceso de descolonización de África."
+      },
+      "reserve": false,
+      "id": "cfc1-9",
+      "correct": "D"
+    },
+    {
+      "number": 10,
+      "stem": "¿Cuál de los siguientes países es miembro pleno del BRICS en su configuración de 2024?",
+      "options": {
+        "A": "Arabia Saudí.",
+        "B": "Etiopía.",
+        "C": "Argelia.",
+        "D": "Kazajistán."
+      },
+      "reserve": false,
+      "id": "cfc1-10",
+      "correct": "B"
+    },
+    {
+      "number": 11,
+      "stem": "¿Cuál de las siguientes afirmaciones sobre la inviolabilidad consular es correcta?",
+      "options": {
+        "A": "Es igual a la diplomática.",
+        "B": "Impide cualquier detención.",
+        "C": "Impide cualquier registro.",
+        "D": "Puede levantarse en caso de delito grave y decisión judicial."
+      },
+      "reserve": false,
+      "id": "cfc1-11",
+      "correct": "D"
+    },
+    {
+      "number": 12,
+      "stem": "¿Cuál de los siguientes espacios NO está sometido a soberanía del Estado ribereño?",
+      "options": {
+        "A": "Aguas interiores.",
+        "B": "Mar territorial.",
+        "C": "Bahías históricas.",
+        "D": "Zona contigua."
+      },
+      "reserve": false,
+      "id": "cfc1-12",
+      "correct": "D"
+    },
+    {
+      "number": 13,
+      "stem": "¿Cuál de las siguientes afirmaciones sobre la plataforma continental es correcta?",
+      "options": {
+        "A": "Requiere ocupación efectiva.",
+        "B": "Su extensión máxima es siempre 200 millas.",
+        "C": "Su delimitación se rige por el principio de libertad del alta mar.",
+        "D": "Los derechos del Estado ribereño son exclusivos y no dependen de proclamación."
+      },
+      "reserve": false,
+      "id": "cfc1-13",
+      "correct": "D"
+    },
+    {
+      "number": 14,
+      "stem": "¿Cuál de los siguientes instrumentos reconoce explícitamente el derecho a la nacionalidad?",
+      "options": {
+        "A": "CNU.",
+        "B": "Declaración Universal de Derechos Humanos.",
+        "C": "Estatuto de la CIJ.",
+        "D": "Convención de Viena de 1961."
+      },
+      "reserve": false,
+      "id": "cfc1-14",
+      "correct": "B"
+    },
+    {
+      "number": 15,
+      "stem": "¿Quién ejerce el puesto de director general de la UNESCO?",
+      "options": {
+        "A": "Koïchiro Matsuura.",
+        "B": "Audrey Azoulay.",
+        "C": "Khaled El-Enany.",
+        "D": "Irina Bokova."
+      },
+      "reserve": false,
+      "id": "cfc1-15",
+      "correct": "C"
+    },
+    {
+      "number": 16,
+      "stem": "Según los artículos sobre responsabilidad del Estado de la CDI, ¿cuál de las siguientes situaciones constituye un caso límite en el que la exclusión de la ilicitud por estado de necesidad no puede invocarse?",
+      "options": {
+        "A": "Cuando el acto es el único medio para salvaguardar un interés esencial del Estado.",
+        "B": "Cuando el peligro es grave e inminente.",
+        "C": "Cuando el acto no afecta gravemente a un interés esencial del Estado lesionado.",
+        "D": "Cuando la obligación internacional violada deriva de una norma de ius cogens, ya que el estado de necesidad nunca puede justificar la violación de obligaciones perentorias."
+      },
+      "reserve": false,
+      "id": "cfc1-16",
+      "correct": "D"
+    },
+    {
+      "number": 17,
+      "stem": "¿Cuál de los siguientes supuestos permitiría la competencia contenciosa de la CIJ?",
+      "options": {
+        "A": "Solicitud de opinión consultiva.",
+        "B": "Declaración unilateral con reserva de reciprocidad.",
+        "C": "Cláusula compromisoria en tratado multilateral.",
+        "D": "Denuncia del tratado aplicable."
+      },
+      "reserve": false,
+      "id": "cfc1-17",
+      "correct": "C"
+    },
+    {
+      "number": 18,
+      "stem": "¿Cuál ha sido la última vez en que la Asamblea General de la ONU ha invocado la resolución 377 A (V) “Uniting for Peace”?",
+      "options": {
+        "A": "La crisis humanitaria en Gaza en 2023.",
+        "B": "El conflicto en Sudán tras el recrudecimiento de hostilidades en 2025.",
+        "C": "La invasión rusa de Ucrania en 2022, que motivó la convocatoria del 11º Período Extraordinario de Sesiones de Emergencia.",
+        "D": "La resolución “Uniting for Peace” no se utiliza desde su adopción en 1950."
+      },
+      "reserve": false,
+      "id": "cfc1-18",
+      "correct": "C"
+    },
+    {
+      "number": 19,
+      "stem": "¿Cuál de los siguientes principios del DIH se aplica específicamente a la elección de armas?",
+      "options": {
+        "A": "Proporcionalidad.",
+        "B": "Distinción.",
+        "C": "Necesidad militar.",
+        "D": "Prohibición de causar daños superfluos."
+      },
+      "reserve": false,
+      "id": "cfc1-19",
+      "correct": "D"
+    },
+    {
+      "number": 20,
+      "stem": "¿Cuál de las siguientes afirmaciones sobre la sucesión de Estados es correcta?",
+      "options": {
+        "A": "Los tratados de límites pueden denunciarse.",
+        "B": "El nuevo Estado mantiene todos los tratados.",
+        "C": "La sucesión afecta a la personalidad jurídica del predecesor.",
+        "D": "Los tratados territoriales continúan automáticamente."
+      },
+      "reserve": false,
+      "id": "cfc1-20",
+      "correct": "D"
+    },
+    {
+      "number": 21,
+      "stem": "En Derecho civil español, ¿cuál de las siguientes afirmaciones sobre la representación voluntaria es correcta?",
+      "options": {
+        "A": "El poder general permite al apoderado realizar cualquier acto sin límites.",
+        "B": "El poder se extingue automáticamente por el transcurso del tiempo.",
+        "C": "La revocación del poder requiere aceptación del apoderado.",
+        "D": "Los actos realizados fuera del poder pueden ser ratificados con efectos retroactivos."
+      },
+      "reserve": false,
+      "id": "cfc1-21",
+      "correct": "D"
+    },
+    {
+      "number": 22,
+      "stem": "En materia de sucesiones, ¿cuál de las siguientes afirmaciones es correcta según el Código Civil?",
+      "options": {
+        "A": "La legítima de los descendientes puede ser reducida por causa de indignidad.",
+        "B": "El testamento ológrafo requiere siempre intervención notarial.",
+        "C": "La preterición no intencional de un heredero forzoso puede anular la institución de heredero.",
+        "D": "La desheredación tácita es válida si se deduce del contexto del testamento."
+      },
+      "reserve": false,
+      "id": "cfc1-22",
+      "correct": "C"
+    },
+    {
+      "number": 23,
+      "stem": "En Derecho marítimo, ¿cuál de las siguientes afirmaciones sobre la avería gruesa es correcta?",
+      "options": {
+        "A": "Solo procede en aguas territoriales.",
+        "B": "Requiere autorización judicial previa.",
+        "C": "Implica reparto proporcional de los sacrificios y gastos extraordinarios entre los interesados.",
+        "D": "Solo afecta al propietario del buque."
+      },
+      "reserve": false,
+      "id": "cfc1-23",
+      "correct": "C"
+    },
+    {
+      "number": 24,
+      "stem": "Según el Reglamento (UE) 1215/2012 (Bruselas I bis), ¿cuál de las siguientes afirmaciones es correcta?",
+      "options": {
+        "A": "El demandante puede elegir libremente el tribunal del Estado miembro que prefiera.",
+        "B": "La sumisión tácita no produce efectos si el demandado comparece.",
+        "C": "Las cláusulas de elección de foro tienen efecto exclusivo salvo pacto en contrario.",
+        "D": "Las resoluciones extranjeras requieren exequátur previo para ejecutarse."
+      },
+      "reserve": false,
+      "id": "cfc1-24",
+      "correct": "C"
+    },
+    {
+      "number": 25,
+      "stem": "En Derecho Internacional Privado, ¿qué principio rige la ley aplicable a la forma?",
+      "options": {
+        "A": "Lex loci celebrationis estricta.",
+        "B": "Ley nacional del otorgante.",
+        "C": "Favor validitatis.",
+        "D": "Ley del domicilio conyugal."
+      },
+      "reserve": false,
+      "id": "cfc1-25",
+      "correct": "C"
+    },
+    {
+      "number": 26,
+      "stem": "¿Cuál de las siguientes NO es una región autónoma con estatuto especial en Italia?",
+      "options": {
+        "A": "Trentino-Alto Adigio.",
+        "B": "Valle de Aosta.",
+        "C": "Friuli-Venecia Julia.",
+        "D": "Emilia-Romaña."
+      },
+      "reserve": false,
+      "id": "cfc1-26",
+      "correct": "D"
+    },
+    {
+      "number": 27,
+      "stem": "¿Cuál de los siguientes países cuenta con un sistema parlamentario unicameral?",
+      "options": {
+        "A": "Filipinas.",
+        "B": "Costa Rica.",
+        "C": "Japón.",
+        "D": "Irlanda."
+      },
+      "reserve": false,
+      "id": "cfc1-27",
+      "correct": "B"
+    },
+    {
+      "number": 28,
+      "stem": "Señale qué artículos se han reformado desde la publicación y entrada en vigor de la Constitución Española de 1978:",
+      "options": {
+        "A": "El artículo 13.2, el 135 y el 49.",
+        "B": "El artículo 13.4, el 135 y el 49.",
+        "C": "El artículo 13.2 y el 135.",
+        "D": "El artículo 13.3, el 135 y el 47."
+      },
+      "reserve": false,
+      "id": "cfc1-28",
+      "correct": "A"
+    },
+    {
+      "number": 29,
+      "stem": "Indique la opción incorrecta a tenor de lo dispuesto en la Ley Orgánica 9/1983, de 15 de julio, reguladora del derecho de reunión:",
+      "options": {
+        "A": "Se entiende por reunión la concurrencia concertada y temporal de más de 20 personas, con finalidad determinada.",
+        "B": "Ninguna reunión estará sometida al régimen de previa autorización.",
+        "C": "La celebración de reuniones en lugares de tránsito público y de manifestaciones deberán ser comunicadas por escrito a la autoridad gubernativa correspondiente por los organizadores o promotores de aquéllas, con una antelación de diez días naturales, como mínimo y treinta como máximo.",
+        "D": "Cuando existan causas extraordinarias y graves que justifiquen la urgencia de convocatoria y celebración de reuniones en lugares de tránsito público o manifestaciones, la comunicación podrá hacerse con una antelación mínima de cuarenta y ocho horas."
+      },
+      "reserve": false,
+      "id": "cfc1-29",
+      "correct": "D"
+    },
+    {
+      "number": 30,
+      "stem": "Señale la opción incorrecta según lo establecido en el Título IV de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres :",
+      "options": {
+        "A": "Las empresas están obligadas a respetar la igualdad de trato y de oportunidades en el ámbito laboral y, con esta finalidad, deberán adoptar medidas dirigidas a evitar cualquier tipo de discriminación laboral entre mujeres y hombres.",
+        "B": "Las empresas de setenta y cinco o más trabajadores, deberán elaborar y aplicar un plan de igualdad, que deberá ser objeto de negociación en la forma que se determine en la legislación laboral.",
+        "C": "Se crea un Registro de Planes de Igualdad de las Empresas, como parte de los Registros de convenios y acuerdos colectivos de trabajo dependientes de la Dirección General de Trabajo del Ministerio de Trabajo, Migraciones y Seguridad Social y de las Autoridades Laborales de las Comunidades Autónomas.",
+        "D": "El Ministerio de Trabajo y Asuntos Sociales creará un distintivo para reconocer a aquellas empresas que destaquen por la aplicación de políticas de igualdad de trato y de oportunidades con sus trabajadores y trabajadoras, que podrá ser utilizado en el tráfico comercial de la empresa y con fines publicitarios."
+      },
+      "reserve": false,
+      "id": "cfc1-30",
+      "correct": "B"
+    },
+    {
+      "number": 31,
+      "stem": "De acuerdo con lo dispuesto en el artículo 67 de la Constitución Española de 1978, las reuniones de Parlamentarios que se celebren sin convocatoria reglamentaria:",
+      "options": {
+        "A": "Son ilegales y están prohibidas.",
+        "B": "No vincularán a las Cámaras, pero los Parlamentarios podrán ejercer sus funciones ostentando sus privilegios.",
+        "C": "No vincularán a las Cámaras, y los Parlamentarios no podrán ejercer sus funciones ni ostentar sus privilegios.",
+        "D": "Vincularán a las cámaras si asisten una mayoría de Parlamentarios de cada Cámara y, en ese caso, podrán ejercer sus privilegios."
+      },
+      "reserve": false,
+      "id": "cfc1-31",
+      "correct": "C"
+    },
+    {
+      "number": 32,
+      "stem": "Según la Constitución Española de 1978, en los Estatutos aprobados por el procedimiento del artículo 151 de la Constitución, la organización institucional autonómica contará con un Presidente elegido por:",
+      "options": {
+        "A": "La Asamblea, de entre sus miembros.",
+        "B": "El Consejo de Gobierno, de entre los miembros de la Asamblea.",
+        "C": "La Asamblea, de entre los miembros del Consejo de Gobierno.",
+        "D": "El Consejo de Gobierno, de entre sus miembros."
+      },
+      "reserve": false,
+      "id": "cfc1-32",
+      "correct": "A"
+    },
+    {
+      "number": 33,
+      "stem": "Según la Ley 2/2014, de 25 de marzo, de la Acción y del Servicio Exterior del Estado, ¿cuál es el órgano colegiado de apoyo y asesoramiento al Presidente del Gobierno en el desempeño de su función de dirección y coordinación de la Política Exterior?",
+      "options": {
+        "A": "El Consejo de Estado.",
+        "B": "El Ministro de Asuntos Exteriores, Unión Europea y Cooperación.",
+        "C": "El Consejo de Política Exterior.",
+        "D": "El Consejo de Ministros."
+      },
+      "reserve": false,
+      "id": "cfc1-33",
+      "correct": "C"
+    },
+    {
+      "number": 34,
+      "stem": "De acuerdo con lo establecido en el artículo 26.2 sobre el procedimiento de la elaboración de normas con rango de Ley y reglamentos del Título V de la Ley 50/1997, de 27 de noviembre, del Gobierno, la consulta pública deberá realizarse de tal forma que todos los potenciales destinatarios de la norma tengan la posibilidad de emitir su opinión, para lo cual deberá proporcionarse un tiempo suficiente, que en ningún caso será inferior a:",
+      "options": {
+        "A": "Quince días hábiles.",
+        "B": "Quince días naturales.",
+        "C": "Veinte días hábiles.",
+        "D": "Veinte días naturales."
+      },
+      "reserve": false,
+      "id": "cfc1-34",
+      "correct": "B"
+    },
+    {
+      "number": 35,
+      "stem": "Señale qué afirmación es incorrecta según lo dispuesto en el Real Decreto-ley 6/2023, de 19 de diciembre, por el que se aprueban medidas urgentes para la ejecución del Plan de Recuperación, Transformación y Resiliencia en materia de servicio público de justicia, función pública, régimen local y mecenazgo:",
+      "options": {
+        "A": "En la oferta de empleo público se reservará un porcentaje no inferior al diez por ciento de las plazas convocadas para ser cubiertas entre personas con discapacidad.",
+        "B": "La participación en los procedimientos de evaluación del desempeño será obligatoria para todo el personal que se encuentre en situación de servicio activo o asimilada.",
+        "C": "La carrera profesional horizontal tendrá carácter voluntario.",
+        "D": "La provisión de puestos de personal directivo público profesional en la Administración General del Estado podrá realizarse por el procedimiento de libre designación, de adscripción provisional o en comisión de servicios."
+      },
+      "reserve": false,
+      "id": "cfc1-35",
+      "correct": "D"
+    },
+    {
+      "number": 36,
+      "stem": "Atendiendo a los vigentes umbrales de aplicación en materia de procedimientos de adjudicación de contratos, establecidos en la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público y modificados en la Orden HAC/1517/2025, de 18 de diciembre, por la que se publican los límites de los distintos tipos de contratos a efectos de la contratación del sector público a partir del 1 de enero de 2026, están sujetos a regulación armonizada los contratos de obra, concesión de obra y concesión de servicios cuyo valor estimado sea igual o superior a:",
+      "options": {
+        "A": "5.404.000€",
+        "B": "5.538.000€",
+        "C": "5.385.000€",
+        "D": "5.405.000€"
+      },
+      "reserve": false,
+      "id": "cfc1-36",
+      "correct": "A"
+    },
+    {
+      "number": 37,
+      "stem": "En relación con el gobierno abierto:",
+      "options": {
+        "A": "La Alianza para el Gobierno Abierto fue fundada en 2011 y España se unió a ella al año siguiente de su fundación.",
+        "B": "España acogió en octubre de 2025 la X Cumbre Global de la Alianza para el Gobierno Abierto, que se celebró en Vitoria-Gasteiz.",
+        "C": "España copresidió con Portugal el Comité Directivo de la Alianza para el Gobierno Abierto durante el periodo 2024-2025.",
+        "D": "El V Plan de Gobierno Abierto de España tiene una vigencia de 4 años y se estructura en 10 compromisos y 218 iniciativas."
+      },
+      "reserve": false,
+      "id": "cfc1-37",
+      "correct": "D"
+    },
+    {
+      "number": 38,
+      "stem": "De acuerdo con lo establecido en el artículo 7.1 del Título II de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea:",
+      "options": {
+        "A": "Igual o mayor de 16 años.",
+        "B": "Mayor de 16 años.",
+        "C": "Igual o mayor de 14 años.",
+        "D": "Mayor de 14 años."
+      },
+      "reserve": false,
+      "id": "cfc1-38",
+      "correct": "D"
+    },
+    {
+      "number": 39,
+      "stem": "El Título III de la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales, NO reconoce como derecho de las personas:",
+      "options": {
+        "A": "El derecho de rectificación.",
+        "B": "El derecho de supresión.",
+        "C": "El derecho de suspensión del tratamiento.",
+        "D": "El derecho de oposición."
+      },
+      "reserve": false,
+      "id": "cfc1-39",
+      "correct": "C"
+    },
+    {
+      "number": 40,
+      "stem": "Señale la respuesta incorrecta en lo que se refiere a la cooperación estructurada permanente:",
+      "options": {
+        "A": "Si bien la posibilidad de establecerla se introdujo en el Tratado de Lisboa, se puso en marcha en 2017.",
+        "B": "Los Estados miembros participantes son 26.",
+        "C": "Se implementa a través de compromisos de carácter no vinculante.",
+        "D": "Se puede invitar excepcionalmente a países no pertenecientes a la UE a participar en proyectos concretos."
+      },
+      "reserve": false,
+      "id": "cfc1-40",
+      "correct": "C"
+    },
+    {
+      "number": 41,
+      "stem": "El Trío de presidencias actual del Consejo de la Unión Europea está formado por:",
+      "options": {
+        "A": "Chipre, Irlanda y Lituania.",
+        "B": "Dinamarca, Chipre y Irlanda.",
+        "C": "Polonia, Dinamarca y Chipre.",
+        "D": "Hungría, Dinamarca y Chipre."
+      },
+      "reserve": false,
+      "id": "cfc1-41",
+      "correct": "C"
+    },
+    {
+      "number": 42,
+      "stem": "De acuerdo con lo establecido en el Tratado de Funcionamiento de la Unión Europea, una de las siguientes NO es una característica propia de los actos delegados:",
+      "options": {
+        "A": "Los actos legislativos que deleguen en la Comisión los poderes para adoptar actos no legislativos de alcance general fijarán de forma expresa las condiciones a las que estará sujeta la delegación.",
+        "B": "El acto delegado no podrá entrar en vigor si el Parlamento Europeo, por mayoría de los miembros que lo componen, ha formulado objeciones en el plazo fijado en el acto legislativo.",
+        "C": "Un acto legislativo podrá delegar en la Comisión los poderes para adoptar actos no legislativos de alcance general que completen o modifiquen determinados elementos no esenciales del acto legislativo.",
+        "D": "El acto delegado no podrá entrar en vigor si el Consejo, por mayoría de los miembros que lo componen, ha formulado objeciones en el plazo fijado en el acto legislativo"
+      },
+      "reserve": false,
+      "id": "cfc1-42",
+      "correct": "D"
+    },
+    {
+      "number": 43,
+      "stem": "¿Quién preside el Comité Económico y Social Europeo?",
+      "options": {
+        "A": "Séamus Boland.",
+        "B": "Oliver Röpke.",
+        "C": "Kata Tüttő.",
+        "D": "Christa Schweng."
+      },
+      "reserve": false,
+      "id": "cfc1-43",
+      "correct": "A"
+    },
+    {
+      "number": 44,
+      "stem": "La capital europea de la juventud es en 2026:",
+      "options": {
+        "A": "Lviv.",
+        "B": "Tromsø.",
+        "C": "Parma.",
+        "D": "Pogdorica."
+      },
+      "reserve": false,
+      "id": "cfc1-44",
+      "correct": "B"
+    },
+    {
+      "number": 45,
+      "stem": "De acuerdo con el artículo 45 del Tratado de Funcionamiento de la Unión Europea, la libre circulación de trabajadores NO se refiere al siguiente derecho:",
+      "options": {
+        "A": "Responder a ofertas efectivas de trabajo.",
+        "B": "Permanecer en el territorio de un Estado miembro después de haber ejercido en él un empleo.",
+        "C": "Residir en uno de los Estados miembros con objeto de acceder a prestaciones sanitarias.",
+        "D": "Residir en uno de los Estados miembros con objeto de ejercer en él un empleo"
+      },
+      "reserve": false,
+      "id": "cfc1-45",
+      "correct": "C"
+    },
+    {
+      "number": 46,
+      "stem": "Señale la respuesta incorrecta en relación con el nuevo marco de gobernanza económica de la UE:",
+      "options": {
+        "A": "Cada Estado miembro prepara un plan presupuestario estructural a medio plazo, que dura cuatro o cinco años.",
+        "B": "El Consejo puede activar una cláusula nacional de excepción si así lo solicita un Estado miembro y lo recomienda la Comisión. El Consejo ha activado la cláusula para 16 Estados miembros.",
+        "C": "El procedimiento de déficit excesivo sobre la base del criterio de déficit exige un ajuste estructural anual mínimo del 0,5% del PIB. Su incumplimiento puede dar lugar a multas de hasta el 0,03% del PIB, que el Estado miembro de que se trate debe pagar cada seis meses hasta que el Consejo confirme que se han tomado medidas eficaces.",
+        "D": "La Comisión considera la posibilidad de iniciar el procedimiento de déficit excesivo basado en la deuda si las desviaciones registradas en la cuenta de control del Estado miembro superan anualmente el 0,3 % del PIB o el 0,6 % del PIB acumulado."
+      },
+      "reserve": false,
+      "id": "cfc1-46",
+      "correct": "C"
+    },
+    {
+      "number": 47,
+      "stem": "¿Cuál de los siguientes países de la UE no forma parte de la Eurozona?",
+      "options": {
+        "A": "Bulgaria.",
+        "B": "Suecia.",
+        "C": "Eslovenia.",
+        "D": "Chipre."
+      },
+      "reserve": false,
+      "id": "cfc1-47",
+      "correct": "B"
+    },
+    {
+      "number": 48,
+      "stem": "De acuerdo con el Tratado de Funcionamiento de la Unión Europea, la presentación de las cuentas del presupuesto de la Unión Europea le corresponde:",
+      "options": {
+        "A": "Al Parlamento Europeo y al Consejo con arreglo un procedimiento legislativo especial.",
+        "B": "Al Banco Central Europeo.",
+        "C": "A la Comisión.",
+        "D": "Al Parlamento por recomendación del Consejo"
+      },
+      "reserve": false,
+      "id": "cfc1-48",
+      "correct": "C"
+    },
+    {
+      "number": 49,
+      "stem": "¿Cuál es el número de representantes especiales de la UE?",
+      "options": {
+        "A": "12.",
+        "B": "9.",
+        "C": "10.",
+        "D": "11."
+      },
+      "reserve": false,
+      "id": "cfc1-49",
+      "correct": "D"
+    },
+    {
+      "number": 50,
+      "stem": "De acuerdo con el Tratado de Funcionamiento de la Unión Europea, ¿quién fijará los derechos del arancel aduanero común?",
+      "options": {
+        "A": "El Consejo, a propuesta de la Comisión.",
+        "B": "El Parlamento Europeo, a propuesta del Consejo.",
+        "C": "La Comisión, a propuesta del Consejo.",
+        "D": "El Consejo Europeo, a propuesta de la Comisión."
+      },
+      "reserve": false,
+      "id": "cfc1-50",
+      "correct": "A"
+    },
+    {
+      "number": 51,
+      "stem": "¿Con qué corriente de pensamiento económico se vincula la hipótesis de las expectativas adaptativas?",
+      "options": {
+        "A": "Keynesiana.",
+        "B": "Monetarista.",
+        "C": "Nueva macroeconomía clásica.",
+        "D": "Nueva economía keynesiana."
+      },
+      "reserve": false,
+      "id": "cfc1-51",
+      "correct": "B"
+    },
+    {
+      "number": 52,
+      "stem": "¿Qué economista acuñó la frase: “En el largo plazo estamos todos muertos”?",
+      "options": {
+        "A": "Alfred Marshall.",
+        "B": "John Maynard Keynes.",
+        "C": "Paul Michael Romer.",
+        "D": "Robert Lucas."
+      },
+      "reserve": false,
+      "id": "cfc1-52",
+      "correct": "B"
+    },
+    {
+      "number": 53,
+      "stem": "Respecto de la contabilidad nacional, ¿cuál de las siguientes afirmaciones es incorrecta?",
+      "options": {
+        "A": "En España, el organismo encargado de elaborar las cuentas nacionales es el Instituto Nacional de Estadística (INE), a través del Departamento de Cuentas Nacionales.",
+        "B": "El SEC-2010 se rige por 2 principios contables básicos: el principio contable de partida doble y el principio de devengo.",
+        "C": "En el SEC-2010 hay 4 tipos de cuentas: corrientes, de capital, de balance y con el resto del mundo.",
+        "D": "Las tablas input-output son matrices que tratan de captar las relaciones intersectoriales en una economía realizando una desagregación por ramas de actividad."
+      },
+      "reserve": false,
+      "id": "cfc1-53",
+      "correct": "C"
+    },
+    {
+      "number": 54,
+      "stem": "El informe Liikanen:",
+      "options": {
+        "A": "Establece una separación de facto de las actividades de negocio bancario minorista y mayorista con requisitos de liquidez y de capital diferentes.",
+        "B": "Explica los flujos comerciales internacionales a partir de la dotación factorial de los países.",
+        "C": "Analiza cómo las instituciones financieras pueden contribuir de manera más eficaz a un desarrollo económico sostenible reconociendo que los bancos tienen un papel clave en canalizar recursos hacia proyectos que reduzcan la huella ambiental, apoyen la transición energética y fortalezcan la cohesión social.",
+        "D": "Propone la intervención del sector público en la economía a través de estímulos puntuales que guíen la elección de los consumidores hacia decisiones financieras más racionales y beneficiosas que incentiven el ahorro."
+      },
+      "reserve": false,
+      "id": "cfc1-54",
+      "correct": "A"
+    },
+    {
+      "number": 55,
+      "stem": "En relación con los elementos básicos de la estructura tributaria, ¿cuál de las siguientes afirmaciones es la correcta?",
+      "options": {
+        "A": "La base imponible es la magnitud dineraria o de otra naturaleza que resulta de la medición o valoración del objeto imponible por medio de una estimación directa, objetiva o indirecta.",
+        "B": "La base liquidable es la magnitud resultante de practicar, en su caso, en la base imponible las reducciones establecidas en la ley.",
+        "C": "La cuota líquida se determinará aplicando el tipo de gravamen a la base liquidable.",
+        "D": "La extinción de la deuda tributaria puede producirse por 3 vías: pago, prescripción o compensación."
+      },
+      "reserve": false,
+      "id": "cfc1-55",
+      "correct": "B"
+    },
+    {
+      "number": 56,
+      "stem": "La teoría de la economía dual fue desarrollada por:",
+      "options": {
+        "A": "Paul Rosenstein-Rodan.",
+        "B": "Arthur Lewis.",
+        "C": "Raúl Prebisch.",
+        "D": "Gunnar Myrdal."
+      },
+      "reserve": false,
+      "id": "cfc1-56",
+      "correct": "B"
+    },
+    {
+      "number": 57,
+      "stem": "Señale cuál de las siguientes afirmaciones es incorrecta:",
+      "options": {
+        "A": "El umbral de pobreza extrema es de 3$ (PPA 2021) por persona al día.",
+        "B": "El Índice de Desarrollo Humano (IDH) fue creado por el Programa de las Naciones Unidas para el Desarrollo en 1990.",
+        "C": "El Índice de Desarrollo de Género incorpora al IDH las diferencias entre géneros.",
+        "D": "El Índice de Pobreza Multidisciplinar-IPM se divide en el IPM 1 (índice de pobreza humana para países en desarrollo) y el IPM 2 (índice de pobreza humana para países de la OCDE)."
+      },
+      "reserve": false,
+      "id": "cfc1-57",
+      "correct": "D"
+    },
+    {
+      "number": 58,
+      "stem": "Indique cuál de las siguientes siglas NO se corresponde con una de las ocho Comunidades Económicas Regionales (CER) reconocidas por la Unión Africana:",
+      "options": {
+        "A": "ECA",
+        "B": "IGAD.",
+        "C": "CEN-SAD.",
+        "D": "UMA."
+      },
+      "reserve": false,
+      "id": "cfc1-58",
+      "correct": "A"
+    },
+    {
+      "number": 59,
+      "stem": "¿Cuáles han sido los últimos países en adherirse a la OMC y en qué Conferencia Ministerial se aprobó su adhesión?",
+      "options": {
+        "A": "Vanuatu y Timor-Leste, en la Conferencia Ministerial de Abu Dabi.",
+        "B": "Samoa y Vanuatu, en la Conferencia Ministerial de Ginebra.",
+        "C": "Comoras y Timor-Leste, en la Conferencia Ministerial de Abu Dabi.",
+        "D": "Comoras y Timor-Leste, en la Conferencia Ministerial de Ginebra."
+      },
+      "reserve": false,
+      "id": "cfc1-59",
+      "correct": "C"
+    },
+    {
+      "number": 60,
+      "stem": "¿Cuál es el instrumento del mercado de divisas en virtud del cual dos partes acuerdan intercambiar flujos de caja denominados en distintas monedas por un periodo de tiempo acordado y/o el principal a vencimiento a un tipo de cambio previamente acordado?",
+      "options": {
+        "A": "Foreign exchange swaps.",
+        "B": "Currency swaps.",
+        "C": "Currency swaption.",
+        "D": "Currency warrant."
+      },
+      "reserve": false,
+      "id": "cfc1-60",
+      "correct": "B"
+    },
+    {
+      "number": 61,
+      "stem": "¿Cuál de las siguientes NO es una respuesta del G20 a la crisis financiera global o a la crisis de la COVID-19?",
+      "options": {
+        "A": "El Consejo de Estabilidad Financiera.",
+        "B": "El Marco Común para el Tratamiento de la Deuda.",
+        "C": "El Fondo para Preparación y Respuesta ante Pandemias.",
+        "D": "El Mecanismo de Financiamiento de Emergencia para Pandemias."
+      },
+      "reserve": false,
+      "id": "cfc1-61",
+      "correct": "D"
+    },
+    {
+      "number": 62,
+      "stem": "Señale qué afirmación es incorrecta en relación con la canalización de los fondos Next Generation EU en España:",
+      "options": {
+        "A": "El Plan de Recuperación, Transformación y Resiliencia (PRTR), cuenta con 4 ejes transversales, que se concretan en 10 políticas palanca y 32 componentes.",
+        "B": "El PRTR ha sido modificado por un total de 3 adendas.",
+        "C": "Se han aprobado un total de 12 Proyectos Estratégicos para la Recuperación y Transformación Económica (PERTES).",
+        "D": "España recibió la sexta entrega de fondos Next Generation EU en agosto de 2025."
+      },
+      "reserve": false,
+      "id": "cfc1-62",
+      "correct": "D"
+    },
+    {
+      "number": 63,
+      "stem": "Según la publicación España en cifras 2025, del Instituto Nacional de Estadística, el porcentaje de nacidos de madre soltera es del:",
+      "options": {
+        "A": "39,23%.",
+        "B": "49,96%.",
+        "C": "51,10%.",
+        "D": "24,76%."
+      },
+      "reserve": false,
+      "id": "cfc1-63",
+      "correct": "B"
+    },
+    {
+      "number": 64,
+      "stem": "El Plan Nacional Integrado de Energía y Clima (PNIEC) 2023-2030 pretende lograr para 2030:",
+      "options": {
+        "A": "Un 30% de reducción de emisiones de gases de efecto invernadero respecto a 1990.",
+        "B": "Un 43% de renovables sobre el uso final de la energía.",
+        "C": "Una reducción de la dependencia energética hasta un 50%.",
+        "D": "Un 48% de mejora de la eficiencia energética en términos de energía final."
+      },
+      "reserve": false,
+      "id": "cfc1-64",
+      "correct": "C"
+    },
+    {
+      "number": 65,
+      "stem": "Según la Encuesta de Población Activa (EPA) del tercer trimestre de 2025, la tasa de paro y la tasa de paro juvenil se sitúan, respectivamente, en:",
+      "options": {
+        "A": "10,61% y 24,90%.",
+        "B": "11,36% y 26,53%",
+        "C": "10,45% y 25,42%.",
+        "D": "10,29% y 24,54%"
+      },
+      "reserve": false,
+      "id": "cfc1-65",
+      "correct": "C"
+    },
+    {
+      "number": 66,
+      "stem": "Según la última actualización de la lista de Otras Entidades de Importancia Sistémica llevada a cabo por el Banco de España en julio de 2025, ¿cuántas y cuáles son las entidades de importancia sistémica nacional designadas para 2026?:",
+      "options": {
+        "A": "4: Banco Santander, BBVA, CaixaBank, Banco Sabadell.",
+        "B": "4: Banco Santander, BBVA, CaixaBank, Bankinter.",
+        "C": "4: Banco Santander, BBVA, CaixaBank, Unicaja.",
+        "D": "3: Banco Santander, BBVA, CaixaBank."
+      },
+      "reserve": false,
+      "id": "cfc1-66",
+      "correct": "A"
+    },
+    {
+      "number": 67,
+      "stem": "De acuerdo con lo establecido en los artículos 40 y 41 de la Ley 47/2003, de 26 de noviembre, General Presupuestaria:",
+      "options": {
+        "A": "Los estados de gastos de los presupuestos se estructurarán de acuerdo con la clasificación orgánica y económica.",
+        "B": "Los estados de ingresos de los presupuestos se estructurarán siguiendo las clasificaciones orgánica, por programas y económica.",
+        "C": "La clasificación económica de los estados de gastos agrupa los créditos separando las operaciones corrientes, las de capital y las financieras.",
+        "D": "La clasificación económica de los estados de ingresos agrupa los ingresos separando los corrientes, los de capital, y las operaciones financieras."
+      },
+      "reserve": false,
+      "id": "cfc1-67",
+      "correct": "D"
+    },
+    {
+      "number": 68,
+      "stem": "Indique cuál de los siguientes es un impuesto potestativo de la hacienda local según lo establecido en el artículo 59 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales:",
+      "options": {
+        "A": "Impuesto sobre Bienes Inmuebles.",
+        "B": "Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+        "C": "Impuesto sobre Actividades Económicas.",
+        "D": "Impuesto sobre Vehículos de Tracción Mécanica."
+      },
+      "reserve": false,
+      "id": "cfc1-68",
+      "correct": "B"
+    },
+    {
+      "number": 69,
+      "stem": "Según el Inventario de entes del sector público institucional (INVENTE) dependiente de la Intervención General de la Administración del Estado (IGAE), ICEX España Exportación e Inversiones, COFIDES, CESCE e ICO son, por orden:",
+      "options": {
+        "A": "Una entidad pública empresarial, una sociedad mercantil estatal, una sociedad mercantil estatal y una entidad pública empresarial.",
+        "B": "Una entidad pública empresarial, una sociedad mercantil estatal, una sociedad mercantil estatal y una sociedad mercantil estatal.",
+        "C": "Una entidad pública empresarial, una sociedad mercantil estatal, una sociedad mercantil estatal y una agencia estatal.",
+        "D": "Una sociedad mercantil estatal, una sociedad mercantil estatal, una sociedad mercantil estatal y una entidad pública empresarial."
+      },
+      "reserve": false,
+      "id": "cfc1-69",
+      "correct": "A"
+    },
+    {
+      "number": 70,
+      "stem": "¿A través de qué programa apoya ICEX España Exportación e Inversiones a las empresas españolas en la diversificación de los mercados de destino de su actividad comercial y de inversión, abordando nuevos mercados que atienden las necesidades de segmentos de población de ingresos relativamente bajos de países emergentes con alto potencial de crecimiento, de manera que implementen soluciones innovadoras, rentables que permitan dar respuesta a los retos de desarrollo sostenible e inclusión social ?",
+      "options": {
+        "A": "ICEX Vives.",
+        "B": "ICEX Impact+.",
+        "C": "ICEX Next.",
+        "D": "ICEX Alto impacto en competitividad."
+      },
+      "reserve": false,
+      "id": "cfc1-70",
+      "correct": "B"
+    },
+    {
+      "number": 71,
+      "stem": "Ordene cronológicamente, de la primera a la más reciente, el siguiente listado de declaraciones sobre la eficacia de la ayuda y conferencias sobre financiación para el desarrollo:",
+      "options": {
+        "A": "Declaración de Roma, Conferencia de Monterrey, Declaración de París, Declaración de Accra, Conferencia de Doha, Declaración de Busán, Conferencia de Addis Abeba, Conferencia de Sevilla.",
+        "B": "Declaración de Roma, Conferencia de Monterrey, Declaración de París, Conferencia de Doha, Declaración de Accra, Declaración de Busán, Conferencia de Addis Abeba, Conferencia de Sevilla.",
+        "C": "Conferencia de Monterrey, Declaración de Roma, Declaración de París, Conferencia de Doha, Declaración de Accra, Declaración de Busán, Conferencia de Addis Abeba, Conferencia de Sevilla.",
+        "D": "Conferencia de Monterrey, Declaración de Roma, Declaración de París, Declaración de Accra, Conferencia de Doha, Declaración de Busán, Conferencia de Addis Abeba, Conferencia de Sevilla."
+      },
+      "reserve": false,
+      "id": "cfc1-71",
+      "correct": "D"
+    },
+    {
+      "number": 72,
+      "stem": "¿Cuál de los siguientes Reales Decretos NO forma parte del desarrollo reglamentario previsto en la disposición final tercera de la Ley 1/2023, de 20 de febrero, de Cooperación para el Desarrollo Sostenible y la Solidaridad Global?",
+      "options": {
+        "A": "Real Decreto 1246/2024, de 10 de diciembre.",
+        "B": "Real Decreto 188/2025, de 11 de marzo.",
+        "C": "Real Decreto 812/2025, de 16 de septiembre.",
+        "D": "Real Decreto 898/2025, de 8 de octubre."
+      },
+      "reserve": false,
+      "id": "cfc1-72",
+      "correct": "C"
+    },
+    {
+      "number": 73,
+      "stem": "El Estatuto de las Personas Cooperantes, aprobado por el Real Decreto 708/2024, de 23 de julio, se aplica a:",
+      "options": {
+        "A": "Las personas contratadas localmente por la entidad promotora de la cooperación para el desarrollo sostenible o la acción humanitaria en el país de destino de la intervención.",
+        "B": "Las personas que presten voluntariamente servicios en el ámbito de la cooperación.",
+        "C": "Las personas cooperantes vinculadas o dependientes de organizaciones internacionales.",
+        "D": "El personal de la Fundación Internacional y para Iberoamérica de Administración y Políticas Públicas (FIIAPP) cuando la misión para la que fue contratado supere los seis meses de duración."
+      },
+      "reserve": false,
+      "id": "cfc1-73",
+      "correct": "D"
+    },
+    {
+      "number": 74,
+      "stem": "Señale qué afirmación es incorrecta en relación con el Fondo Español para el Desarrollo Sostenible (FEDES):",
+      "options": {
+        "A": "Es un fondo carente de personalidad jurídica y el instrumento de la cooperación financiera española que reemplaza al anterior Fondo de Promoción del Desarrollo (FONPRODE), creado en 2010.",
+        "B": "Se establece un Comité Ejecutivo, integrado en la estructura de la AECID, que tiene por función, entre otras, el estudio y la valoración de las propuestas de financiación con cargo al FEDES.",
+        "C": "Será administrado por la Gerencia General del FEDES.",
+        "D": "El ICO es su agente financiero."
+      },
+      "reserve": false,
+      "id": "cfc1-74",
+      "correct": "B"
+    },
+    {
+      "number": 75,
+      "stem": "La AECID NO cuenta con antena humanitaria en:",
+      "options": {
+        "A": "Argelia.",
+        "B": "Mauritania.",
+        "C": "Mali.",
+        "D": "Níger."
+      },
+      "reserve": false,
+      "id": "cfc1-75",
+      "correct": "B"
+    },
+    {
+      "number": 76,
+      "stem": "¿Cuál de las siguientes batallas en el marco de la Primera Guerra Mundial supuso una derrota estratégica rusa?",
+      "options": {
+        "A": "Brusilov.",
+        "B": "Tannenberg.",
+        "C": "Caporetto.",
+        "D": "Verdún."
+      },
+      "reserve": false,
+      "id": "cfc1-76",
+      "correct": "B"
+    },
+    {
+      "number": 77,
+      "stem": "¿Cuál de los siguientes países asiáticos ha firmado y tiene en vigor un acuerdo comercial con la Unión Europea?",
+      "options": {
+        "A": "India.",
+        "B": "Tailandia.",
+        "C": "Corea del Sur.",
+        "D": "Indonesia."
+      },
+      "reserve": false,
+      "id": "cfc1-77",
+      "correct": "C"
+    },
+    {
+      "number": 78,
+      "stem": "¿Cuál de las siguientes afirmaciones describe correctamente la sucesión política reciente en Tailandia?",
+      "options": {
+        "A": "Rama IX sigue siendo el monarca reinante.",
+        "B": "Sirikit es la actual jefa de Estado.",
+        "C": "Rama X sucedió a Rama IX.",
+        "D": "Rama X abdicó en favor de Sirikit."
+      },
+      "reserve": false,
+      "id": "cfc1-78",
+      "correct": "C"
+    },
+    {
+      "number": 79,
+      "stem": "¿Quién es considerado el principal referente ideológico contemporáneo de la actual Estrategia de Seguridad Nacional de la Federación Rusa?",
+      "options": {
+        "A": "Leonid Ilich Brézhnev.",
+        "B": "Aleksandr Mijáilovich Gorchakov.",
+        "C": "Aleksandr Duguin.",
+        "D": "Nikolái Patrushev."
+      },
+      "reserve": false,
+      "id": "cfc1-79",
+      "correct": "C"
+    },
+    {
+      "number": 80,
+      "stem": "¿Cuál es la capital de Palaos?",
+      "options": {
+        "A": "Funafuti.",
+        "B": "Majuro.",
+        "C": "Ngerulmud.",
+        "D": "Honiara."
+      },
+      "reserve": false,
+      "id": "cfc1-80",
+      "correct": "C"
+    },
+    {
+      "number": 81,
+      "stem": "¿Qué conflicto, desencadenado por tensiones migratorias, enfrentó a Honduras y El Salvador en 1969?",
+      "options": {
+        "A": "Guerra del Chaco.",
+        "B": "Guerra del Cenepa.",
+        "C": "Guerra del Fútbol.",
+        "D": "Guerra de la Triple Alianza."
+      },
+      "reserve": false,
+      "id": "cfc1-81",
+      "correct": "C"
+    },
+    {
+      "number": 82,
+      "stem": "¿Cuál de las siguientes secuencias identifica correctamente el orden cronológico de los presidentes de Estados Unidos?",
+      "options": {
+        "A": "James Madison – John Quincy Adams – James Monroe – William H. Seward.",
+        "B": "James Monroe – John Quincy Adams – Andrew Jackson – Martin Van Buren.",
+        "C": "Henry Clay – James K. Polk – Daniel Webster – Zachary Taylor.",
+        "D": "John C. Calhoun – Millard Fillmore – James Buchanan – Cordell Hull."
+      },
+      "reserve": false,
+      "id": "cfc1-82",
+      "correct": "B"
+    },
+    {
+      "number": 83,
+      "stem": "¿Cuál de los siguientes episodios marcó el inicio del Sexenio Democrático en España?",
+      "options": {
+        "A": "La abdicación de Amadeo I.",
+        "B": "La proclamación de la Primera República.",
+        "C": "La Revolución de 1868.",
+        "D": "El pronunciamiento de Pavía."
+      },
+      "reserve": false,
+      "id": "cfc1-83",
+      "correct": "C"
+    },
+    {
+      "number": 84,
+      "stem": "¿Quién ejerce como Primer Ministro del Líbano en la actualidad?",
+      "options": {
+        "A": "Nawaf Salam.",
+        "B": "Rafic Hariri.",
+        "C": "Saeb Salam.",
+        "D": "Saad Hariri."
+      },
+      "reserve": false,
+      "id": "cfc1-84",
+      "correct": "A"
+    },
+    {
+      "number": 85,
+      "stem": "¿Cuál de los siguientes emparejamientos respecto al liderazgo de operaciones en la Segunda Guerra Mundial es correcto?",
+      "options": {
+        "A": "Omar Bradley — Operación Garden.",
+        "B": "George S. Patton — Operación Torch.",
+        "C": "Dwight D. Eisenhower — Operación Overlord.",
+        "D": "Douglas MacArthur — Operación Husky."
+      },
+      "reserve": false,
+      "id": "cfc1-85",
+      "correct": "C"
+    },
+    {
+      "number": 86,
+      "stem": "¿Qué potencia europea obtuvo el control del Congo tras la Conferencia de Berlín de 1885?",
+      "options": {
+        "A": "Francia.",
+        "B": "Reino Unido.",
+        "C": "Bélgica.",
+        "D": "Alemania."
+      },
+      "reserve": false,
+      "id": "cfc1-86",
+      "correct": "C"
+    },
+    {
+      "number": 87,
+      "stem": "¿Cuál de los siguientes autores no fue galardonado con el Premio Cervantes?",
+      "options": {
+        "A": "Camilo José Cela.",
+        "B": "Miguel Delibes.",
+        "C": "Elena Poniatowska.",
+        "D": "Gabriel García Márquez."
+      },
+      "reserve": false,
+      "id": "cfc1-87",
+      "correct": "D"
+    },
+    {
+      "number": 88,
+      "stem": "¿Qué batalla de la Primera Guerra Mundial supuso la mayor ofensiva rusa del conflicto y provocó enormes pérdidas a Austria-Hungría?",
+      "options": {
+        "A": "Somme.",
+        "B": "Verdún.",
+        "C": "Ofensiva Brusilov.",
+        "D": "Gallípoli."
+      },
+      "reserve": false,
+      "id": "cfc1-88",
+      "correct": "C"
+    },
+    {
+      "number": 89,
+      "stem": "¿Cuál de los siguientes acuerdos puso fin oficialmente a la Primera Guerra Mundial entre Alemania y las potencias aliadas?",
+      "options": {
+        "A": "Tratado de Brest-Litovsk.",
+        "B": "Tratado de Londres.",
+        "C": "Tratado de Versalles.",
+        "D": "Tratado de Rapallo."
+      },
+      "reserve": false,
+      "id": "cfc1-89",
+      "correct": "C"
+    },
+    {
+      "number": 90,
+      "stem": "¿Cuál de los siguientes países fue escenario de la crisis de 1956 que puso a prueba la doctrina soviética de intervención en Europa del Este?",
+      "options": {
+        "A": "Polonia.",
+        "B": "Hungría.",
+        "C": "Checoslovaquia.",
+        "D": "Yugoslavia."
+      },
+      "reserve": false,
+      "id": "cfc1-90",
+      "correct": "B"
+    },
+    {
+      "number": 91,
+      "stem": "¿Qué país lideró el Movimiento de Países No Alineados junto con Egipto y Yugoslavia en los años sesenta?",
+      "options": {
+        "A": "Malasia.",
+        "B": "India.",
+        "C": "Argelia.",
+        "D": "Turquía."
+      },
+      "reserve": false,
+      "id": "cfc1-91",
+      "correct": "B"
+    },
+    {
+      "number": 92,
+      "stem": "¿Cuál de los siguientes elementos caracterizó la política de reforma de Deng Xiaoping en China?",
+      "options": {
+        "A": "La colectivización total de la agricultura.",
+        "B": "La autarquía económica.",
+        "C": "La introducción de zonas económicas especiales y la apertura al capital extranjero.",
+        "D": "La limitación del comercio exterior en favor del consumo interno."
+      },
+      "reserve": false,
+      "id": "cfc1-92",
+      "correct": "C"
+    },
+    {
+      "number": 93,
+      "stem": "¿Cuál de los siguientes conflictos insulares respecto a la soberanía sobre arrecifes y atolones estratégicos involucra a China, Taiwán y Filipinas?",
+      "options": {
+        "A": "Disputa por las islas Kuriles.",
+        "B": "Disputa por las islas Senkaku/Diaoyu.",
+        "C": "Disputa por las islas Spratly.",
+        "D": "Disputa por las islas Paracel."
+      },
+      "reserve": false,
+      "id": "cfc1-93",
+      "correct": "C"
+    },
+    {
+      "number": 94,
+      "stem": "¿Cuál de las siguientes describe el contenido de la doctrina Mavi Vatan (“Patria Azul”)?",
+      "options": {
+        "A": "Una doctrina siria denominada AlBahr alMutawassiṭ alMuwahhad, centrada en la creación de un corredor terrestre continuo hacia el Mediterráneo oriental.",
+        "B": "Una teoría iraní conocida como Daryā-ye Setarehā, orientada a establecer un sistema de alianzas energéticas en el Golfo Pérsico para coordinar la explotación conjunta de yacimientos gasísticos.",
+        "C": "Una estrategia marítima turca que reivindica amplias zonas económicas exclusivas en mares adyacentes, con el objetivo de reforzar la soberanía sobre recursos submarinos.",
+        "D": "Una doctrina iraquí llamada AlFajr alJawwī, centrada en el desarrollo de un escudo aéreo regional para contrarrestar amenazas balísticas y garantizar autonomía defensiva."
+      },
+      "reserve": false,
+      "id": "cfc1-94",
+      "correct": "C"
+    },
+    {
+      "number": 95,
+      "stem": "¿A qué países enfrenta la disputa territorial por la península de Bakassi, rica en petróleo?",
+      "options": {
+        "A": "Etiopía y Eritrea.",
+        "B": "Angola y Somaliland.",
+        "C": "Camerún y Nigeria.",
+        "D": "Chad y Níger."
+      },
+      "reserve": false,
+      "id": "cfc1-95",
+      "correct": "C"
+    },
+    {
+      "number": 96,
+      "stem": "¿En qué año obtuvo TimorLeste su independencia definitiva, tras la retirada de Indonesia y el proceso de administración transitoria de la ONU?",
+      "options": {
+        "A": "1999.",
+        "B": "1964.",
+        "C": "2011.",
+        "D": "2002."
+      },
+      "reserve": false,
+      "id": "cfc1-96",
+      "correct": "D"
+    },
+    {
+      "number": 97,
+      "stem": "¿Cuál de las siguientes batallas fue decisiva para asegurar la independencia del territorio del actual Perú?",
+      "options": {
+        "A": "Batalla de Boyacá.",
+        "B": "Batalla de Ayacucho.",
+        "C": "Batalla de Carabobo.",
+        "D": "Batalla de Chacabuco."
+      },
+      "reserve": false,
+      "id": "cfc1-97",
+      "correct": "B"
+    },
+    {
+      "number": 98,
+      "stem": "¿Cuál de los siguientes conflictos marítimos en Asia involucra a Corea del Sur y Japón?",
+      "options": {
+        "A": "Paracel.",
+        "B": "Spratly.",
+        "C": "Senkaku/Diaoyu.",
+        "D": "Dokdo/Takeshima."
+      },
+      "reserve": false,
+      "id": "cfc1-98",
+      "correct": "D"
+    },
+    {
+      "number": 99,
+      "stem": "¿Cuál de las siguientes afirmaciones refleja correctamente el concepto de “convergencia estratégica” según la Estrategia de Acción Exterior de España vigente?",
+      "options": {
+        "A": "Es una doctrina estadounidense destinada a anticipar la conducta de potencias rivales mediante strategic empathy.",
+        "B": "Es un principio de la política de seguridad de EE. UU. que busca la supremacía en la competencia estratégica con China.",
+        "C": "Es un enfoque que busca alinear intereses, prioridades y capacidades con socios y organizaciones internacionales para maximizar la eficacia de la acción exterior.",
+        "D": "Es un mecanismo de disuasión militar empleado por la OTAN en escenarios de alta intensidad."
+      },
+      "reserve": false,
+      "id": "cfc1-99",
+      "correct": "C"
+    },
+    {
+      "number": 100,
+      "stem": "¿Cuál de los siguientes acontecimientos describe correctamente el desenlace de la ocupación italiana de Abisinia durante la Segunda Guerra Mundial?",
+      "options": {
+        "A": "La anexión definitiva del territorio por Italia tras la caída de Mussolini.",
+        "B": "La proclamación de un protectorado británico permanente sobre Etiopía.",
+        "C": "La instauración de un gobierno provisional dirigido por Ras Tafari Makonnen.",
+        "D": "La restauración de Haile Selassie con apoyo británico, recuperando el control de Abisinia."
+      },
+      "reserve": false,
+      "id": "cfc1-100",
+      "correct": "D"
+    },
+    {
+      "number": 101,
+      "stem": "Según lo establecido en la Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género, NO es titular de la acción de cesación de publicidad ilícita por utilizar en forma vejatoria la imagen de la mujer ante los Tribunales:",
+      "options": {
+        "A": "La Delegación Especial del Gobierno contra la Violencia sobre la Mujer.",
+        "B": "El Instituto de la Mujer.",
+        "C": "Las Asociaciones que tengan como objetivo único la defensa de los intereses de la mujer.",
+        "D": "El Obervatorio Estatal de Violencia sobre la Mujer."
+      },
+      "reserve": true,
+      "id": "cfc1-101",
+      "correct": "D"
+    },
+    {
+      "number": 102,
+      "stem": "Señale la respuesta incorrecta con respecto a la Fiscalía Europea:",
+      "options": {
+        "A": "Tiene su sede central en Luxemburgo.",
+        "B": "Su creación fue propuesta en 2013, se creó en 2017 a través del procedimiento de cooperación reforzada y entró en funcionamiento en 2021.",
+        "C": "Participan 24 Estados miembros, siendo Dinamarca el último país en incorporarse plenamente.",
+        "D": "Los delitos que investiga reciben el nombre de delitos PIF."
+      },
+      "reserve": true,
+      "id": "cfc1-102",
+      "correct": "C"
+    },
+    {
+      "number": 103,
+      "stem": "¿Quién ha recibido el premio Ñ en 2025?",
+      "options": {
+        "A": "María Delgado.",
+        "B": "Park Chul.",
+        "C": "Gonzalo Celorio Blasco.",
+        "D": "Álvaro Pombo."
+      },
+      "reserve": true,
+      "id": "cfc1-103",
+      "correct": "A"
+    },
+    {
+      "number": 104,
+      "stem": "¿Cuál de los siguientes crímenes no está bajo competencia de la CPI?",
+      "options": {
+        "A": "Crimen de agresión.",
+        "B": "Crímenes de guerra.",
+        "C": "Crímenes de lesa humanidad.",
+        "D": "Terrorismo internacional."
+      },
+      "reserve": true,
+      "id": "cfc1-104",
+      "correct": "D"
+    },
+    {
+      "number": 105,
+      "stem": "¿Cuál de los siguientes conflictos ha sido objeto del laudo de 2016 del Tribunal Permanente de Arbitraje?",
+      "options": {
+        "A": "La disputa entre Rusia y Japón por las islas Kuriles.",
+        "B": "La disputa entre Corea del Sur y Japón por Dokdo/Takeshima.",
+        "C": "La disputa entre Filipinas y China en el mar de China Meridional.",
+        "D": "La disputa entre Vietnam y China por las islas Paracel."
+      },
+      "reserve": true,
+      "id": "cfc1-105",
+      "correct": "C"
+    }
+  ]
+}
