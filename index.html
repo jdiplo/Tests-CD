@@ -37,7 +37,7 @@ let db=null;
 async function save(){if(db)try{await idbPut(db,'db',DB)}catch(e){console.warn(e)}}
 async function init(){db=await openDB();const d=await idbGet(db,'db');DB=d&&d.tests?d:{tests:[DEMO],attempts:[],qs:{},favs:[],set:{penalty:0}};if(!DB.tests.length)DB.tests=[DEMO];await save();render()}
 const TABS=[['home','Inicio','🏠'],['tests','Test','📚'],['failed','Falladas','🔁'],['stats','Datos','📊'],['more','Más','☰']];
-function tabsRender(){tabs.innerHTML=TABS.map(([k,l,i])=>`<button class="${(R.name==k||(k=='tests'&&(R.name=='official'||R.name=='academy'||R.name=='all'||R.name=='test')))?'on':''}" onclick="go('${k}')">${i}<br>${l}</button>`).join('')}
+function tabsRender(){tabs.innerHTML=TABS.map(([k,l,i])=>`<button class="${(R.name==k||(k=='tests'&&(R.name=='official'||R.name=='academy'||R.name=='all'||R.name=='test')))?'on':''}" onclick="${k=='more'?'more()':`go('${k}')`}">${i}<br>${l}</button>`).join('')}
 function go(n,p={}){if(busy)return;busy=true;closeModal();R={name:n,...p};window.scrollTo({top:0,behavior:'smooth'});setTimeout(()=>{render();busy=false},70)}
 function path(t){return `${t.category=='oficial'?'Oficial':'Academia'} · ${t.origin||'—'} · ${t.year||'—'}`}
 function qs(id){return DB.qs[id]||{seen:0,correct:0,wrong:0,blank:0,streak:0,last:null}}
